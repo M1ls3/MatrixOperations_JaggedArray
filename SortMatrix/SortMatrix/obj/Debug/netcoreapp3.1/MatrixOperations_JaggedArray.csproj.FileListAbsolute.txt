@@ -1,0 +1,14 @@
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 2\SortMatrix\SortMatrix\bin\Debug\netcoreapp3.1\MatrixOperations_JaggedArray.exe
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 2\SortMatrix\SortMatrix\bin\Debug\netcoreapp3.1\MatrixOperations_JaggedArray.deps.json
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 2\SortMatrix\SortMatrix\bin\Debug\netcoreapp3.1\MatrixOperations_JaggedArray.runtimeconfig.json
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 2\SortMatrix\SortMatrix\bin\Debug\netcoreapp3.1\MatrixOperations_JaggedArray.runtimeconfig.dev.json
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 2\SortMatrix\SortMatrix\bin\Debug\netcoreapp3.1\MatrixOperations_JaggedArray.dll
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 2\SortMatrix\SortMatrix\bin\Debug\netcoreapp3.1\MatrixOperations_JaggedArray.pdb
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 2\SortMatrix\SortMatrix\obj\Debug\netcoreapp3.1\MatrixOperations_JaggedArray.csproj.AssemblyReference.cache
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 2\SortMatrix\SortMatrix\obj\Debug\netcoreapp3.1\MatrixOperations_JaggedArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 2\SortMatrix\SortMatrix\obj\Debug\netcoreapp3.1\MatrixOperations_JaggedArray.AssemblyInfoInputs.cache
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 2\SortMatrix\SortMatrix\obj\Debug\netcoreapp3.1\MatrixOperations_JaggedArray.AssemblyInfo.cs
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 2\SortMatrix\SortMatrix\obj\Debug\netcoreapp3.1\MatrixOperations_JaggedArray.csproj.CoreCompileInputs.cache
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 2\SortMatrix\SortMatrix\obj\Debug\netcoreapp3.1\MatrixOperations_JaggedArray.dll
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 2\SortMatrix\SortMatrix\obj\Debug\netcoreapp3.1\MatrixOperations_JaggedArray.pdb
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 2\SortMatrix\SortMatrix\obj\Debug\netcoreapp3.1\MatrixOperations_JaggedArray.genruntimeconfig.cache

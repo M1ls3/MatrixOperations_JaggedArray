@@ -1,0 +1,14 @@
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 2\SortMatrix\SortMatrix\bin\Debug\netcoreapp3.1\SortMatrix.exe
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 2\SortMatrix\SortMatrix\bin\Debug\netcoreapp3.1\SortMatrix.deps.json
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 2\SortMatrix\SortMatrix\bin\Debug\netcoreapp3.1\SortMatrix.runtimeconfig.json
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 2\SortMatrix\SortMatrix\bin\Debug\netcoreapp3.1\SortMatrix.runtimeconfig.dev.json
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 2\SortMatrix\SortMatrix\bin\Debug\netcoreapp3.1\SortMatrix.dll
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 2\SortMatrix\SortMatrix\bin\Debug\netcoreapp3.1\SortMatrix.pdb
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 2\SortMatrix\SortMatrix\obj\Debug\netcoreapp3.1\SortMatrix.csproj.AssemblyReference.cache
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 2\SortMatrix\SortMatrix\obj\Debug\netcoreapp3.1\SortMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 2\SortMatrix\SortMatrix\obj\Debug\netcoreapp3.1\SortMatrix.AssemblyInfoInputs.cache
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 2\SortMatrix\SortMatrix\obj\Debug\netcoreapp3.1\SortMatrix.AssemblyInfo.cs
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 2\SortMatrix\SortMatrix\obj\Debug\netcoreapp3.1\SortMatrix.csproj.CoreCompileInputs.cache
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 2\SortMatrix\SortMatrix\obj\Debug\netcoreapp3.1\SortMatrix.dll
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 2\SortMatrix\SortMatrix\obj\Debug\netcoreapp3.1\SortMatrix.pdb
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 2\SortMatrix\SortMatrix\obj\Debug\netcoreapp3.1\SortMatrix.genruntimeconfig.cache
